@@ -15,5 +15,8 @@ public class Main {
         System.out.println("dividing" + cal.div(a,b));
         System.out.println("multiplying" + cal.multi(a,b));
         System.out.println("remainder" + cal.remain(a,b));
+
+        System.out.println("All operations are done");
+
     }
 }
